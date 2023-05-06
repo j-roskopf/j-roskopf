@@ -3,4 +3,6 @@
 
 #### I’m an Android developer who is passionate about the human side of software development.
 
+You can find me on my website [joetr.com](https://joetr.com)
+
 ![Profile views](https://gpvc.arturio.dev/j-roskopf)  
