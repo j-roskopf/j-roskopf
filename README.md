@@ -8,3 +8,5 @@ You can find me on my website [joetr.com](https://joetr.com)
 You can find my blog at [blog.joetr.com](https://blog.joetr.com)
 
 ![Profile views](https://gpvc.arturio.dev/j-roskopf)  
+
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
