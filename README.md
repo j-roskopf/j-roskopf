@@ -3,7 +3,9 @@
 
 I’m an Android developer who is passionate about the human side of software development.
 
-[website](https://joetr.com)
+
+<a href="https://joetr.com"><img src="https://img.shields.io/badge/website-joetr.com-green"></a>
+
 
 [blog](https://blog.joetr.com)
 
