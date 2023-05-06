@@ -7,11 +7,7 @@ You can find me on my website [joetr.com](https://joetr.com)
 
 You can find my blog at [blog.joetr.com](https://blog.joetr.com)
 
-<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
-<script>
-  // Please, replace #yourelement with a real element id on your webpage
-  MarketplaceWidget.setupMarketplaceWidget('card', 14229, "#yourelement");
-</script>
+<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/14229" frameborder="0" allowfullscreen></iframe>
 
 ![Profile views](https://gpvc.arturio.dev/j-roskopf)  
 
