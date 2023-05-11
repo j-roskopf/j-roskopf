@@ -8,10 +8,12 @@ I’m an Android developer who is passionate about the human side of software de
 <a href="https://blog.joetr.com"><img src="https://img.shields.io/badge/blog-blog.joetr.com-blue"></a>
 
 Module Maker
+
 [![Version](https://img.shields.io/jetbrains/plugin/v/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
 
 Android Talk Back Enabler
+
 [![Version](https://img.shields.io/jetbrains/plugin/v/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 
