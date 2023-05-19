@@ -22,3 +22,7 @@ Android Talk Back Enabler
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
+
+Gradle File Sorter
+
+![npm](https://img.shields.io/npm/v/gradle-file-sorter)
