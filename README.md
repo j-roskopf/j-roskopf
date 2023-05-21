@@ -23,6 +23,11 @@ Android Talk Back Enabler
 [![Version](https://img.shields.io/jetbrains/plugin/v/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 
-Gradle File Sorter
+Gradle File Sorter Plugin
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/21846.svg)](https://plugins.jetbrains.com/plugin/21846)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/21846.svg)](https://plugins.jetbrains.com/plugin/21846)
+
+Gradle File Sorter CLI
 
 [![npm](https://img.shields.io/npm/v/gradle-file-sorter)](https://www.npmjs.com/package/gradle-file-sorter)
