@@ -7,7 +7,7 @@ I’m an Android developer who is passionate about the human side of software de
 
 <a href="https://blog.joetr.com"><img src="https://img.shields.io/badge/blog-blog.joetr.com-blue"></a>
 
-![Profile views](https://gpvc.arturio.dev/j-roskopf)  
+![](https://komarev.com/ghpvc/?username=j-roskopfe&color=blue)
 
 <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
 
