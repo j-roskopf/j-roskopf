@@ -31,3 +31,6 @@ Gradle File Sorter Plugin
 Gradle File Sorter CLI
 
 [![npm](https://img.shields.io/npm/v/gradle-file-sorter)](https://www.npmjs.com/package/gradle-file-sorter)
+
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-roskopf)](https://github.com/anuraghazra/github-readme-stats)
+
