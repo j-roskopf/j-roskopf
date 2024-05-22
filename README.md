@@ -11,22 +11,26 @@ I’m an Android developer who is passionate about the human side of software de
 
 <a href="#"><img src="https://img.shields.io/github/stars/j-roskopf?style=social"></a>
 
-Module Maker Plugin
+[Module Maker Plugin](https://github.com/j-roskopf/ModuleMakerPlugin)
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
 
-Android Talk Back Enabler Plugin
+[Compose Guard](https://github.com/j-roskopf/ComposeGuard)
+
+![Maven Central Version](https://img.shields.io/maven-central/v/com.joetr.compose.guard/com.joetr.compose.guard.gradle.plugin)
+
+[Android Talk Back Enabler Plugin](https://github.com/j-roskopf/AndroidStudioTalkBackPlugin)
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
 
-Gradle File Sorter Plugin
+[Gradle File Sorter Plugin](https://github.com/j-roskopf/GradleFileSorterPlugin)
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/21846.svg)](https://plugins.jetbrains.com/plugin/21846)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/21846.svg)](https://plugins.jetbrains.com/plugin/21846)
 
-Gradle File Sorter CLI
+[Gradle File Sorter CLI](https://github.com/j-roskopf/GradleFileSorter)
 
 [![npm](https://img.shields.io/npm/v/gradle-file-sorter)](https://www.npmjs.com/package/gradle-file-sorter)
 
