@@ -7,8 +7,6 @@ I’m an Android developer who is passionate about the human side of software de
 
 <a href="https://blog.joetr.com"><img src="https://img.shields.io/badge/blog-blog.joetr.com-blue"></a>
 
-<a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
-
 <a href="#"><img src="https://img.shields.io/github/stars/j-roskopf?style=social"></a>
 
 [Module Maker Plugin](https://github.com/j-roskopf/ModuleMakerPlugin)
