@@ -18,6 +18,15 @@ I’m an Android developer who is passionate about the human side of software de
 
 ![Maven Central Version](https://img.shields.io/maven-central/v/com.joetr.compose.guard/com.joetr.compose.guard.gradle.plugin)
 
+[Sync Sphere](https://github.com/j-roskopf/SyncSphere)
+
+![iTunes App Store](https://img.shields.io/itunes/v/6471382890)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+[Rockabye](https://github.com/j-roskopf/Rockabye)
+![iTunes App Store](https://img.shields.io/itunes/v/6474103446)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 [Android Talk Back Enabler Plugin](https://github.com/j-roskopf/AndroidStudioTalkBackPlugin)
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/14229.svg)](https://plugins.jetbrains.com/plugin/14229)
