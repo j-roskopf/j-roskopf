@@ -24,6 +24,7 @@ I’m an Android developer who is passionate about the human side of software de
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
 
 [Rockabye](https://github.com/j-roskopf/Rockabye)
+
 ![iTunes App Store](https://img.shields.io/itunes/v/6474103446)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
 
