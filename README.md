@@ -21,11 +21,11 @@ I’m an Android developer who is passionate about the human side of software de
 [Sync Sphere](https://github.com/j-roskopf/SyncSphere)
 
 ![iTunes App Store](https://img.shields.io/itunes/v/6471382890)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
 
 [Rockabye](https://github.com/j-roskopf/Rockabye)
 ![iTunes App Store](https://img.shields.io/itunes/v/6474103446)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
 
 [Android Talk Back Enabler Plugin](https://github.com/j-roskopf/AndroidStudioTalkBackPlugin)
 
