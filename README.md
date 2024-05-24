@@ -9,7 +9,10 @@ I’m an Android developer who is passionate about the human side of software de
 
 <a href="#"><img src="https://img.shields.io/github/stars/j-roskopf?style=social"></a>
 
-[Module Maker Plugin](https://github.com/j-roskopf/ModuleMakerPlugin) [![Version](https://img.shields.io/jetbrains/plugin/v/21724.svg)](https://plugins.jetbrains.com/plugin/21724) [![Downloads](https://img.shields.io/jetbrains/plugin/d/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
+[Module Maker Plugin](https://github.com/j-roskopf/ModuleMakerPlugin) 
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/21724.svg)](https://plugins.jetbrains.com/plugin/21724) 
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
 
 [Compose Guard](https://github.com/j-roskopf/ComposeGuard)
 
