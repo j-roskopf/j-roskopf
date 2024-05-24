@@ -25,8 +25,8 @@ I’m an Android developer who is passionate about the human side of software de
 
 [Rockabye](https://github.com/j-roskopf/Rockabye)
 
-![iTunes App Store](https://img.shields.io/itunes/v/6474103446)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
+[![App Store](https://img.shields.io/itunes/v/6474103446)](https://apps.apple.com/us/app/rockabye/id6474103446) 
+[![Play Store](https://img.shields.io/badge/Android-3DDC84?logo=android)](https://play.google.com/store/apps/details?id=com.joetr.bundle&hl=en&gl=US) 
 
 [Android Talk Back Enabler Plugin](https://github.com/j-roskopf/AndroidStudioTalkBackPlugin)
 
