@@ -20,8 +20,8 @@ I’m an Android developer who is passionate about the human side of software de
 
 [Sync Sphere](https://github.com/j-roskopf/SyncSphere)
 
-![iTunes App Store](https://img.shields.io/itunes/v/6471382890)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
+[![App Store](https://img.shields.io/jetbrains/plugin/v/21724.svg)](https://apps.apple.com/us/app/sync-sphere/id6471382890) 
+[![Play Store](https://img.shields.io/badge/Android-3DDC84?logo=android)](https://play.google.com/store/apps/details?id=com.joetr.sync.sphere&hl=en&gl=US) 
 
 [Rockabye](https://github.com/j-roskopf/Rockabye)
 
