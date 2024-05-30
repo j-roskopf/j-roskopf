@@ -16,7 +16,7 @@ I’m an Android developer who is passionate about the human side of software de
 * [![Downloads](https://img.shields.io/jetbrains/plugin/d/21724.svg)](https://plugins.jetbrains.com/plugin/21724)
 
 [Compose Guard](https://github.com/j-roskopf/ComposeGuard)
-* A Gradle plugin for detecting regressions in Jetpack Compose
+* A Gradle plugin for detecting regressions in Jetpack Compose / Compose Multiplatform
 * ![Maven Central Version](https://img.shields.io/maven-central/v/com.joetr.compose.guard/com.joetr.compose.guard.gradle.plugin)
 
 [Sync Sphere](https://github.com/j-roskopf/SyncSphere)
