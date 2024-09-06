@@ -19,6 +19,10 @@ I’m an Android developer who is passionate about the human side of software de
 * A Gradle plugin for detecting regressions in Jetpack Compose / Compose Multiplatform
 * ![Maven Central Version](https://img.shields.io/maven-central/v/com.joetr.compose.guard/com.joetr.compose.guard.gradle.plugin)
 
+[Kotlin Warning Baseline Generator](https://github.com/j-roskopf/KotlinWarningBaselineGenerator)
+* A Gradle plugin to generate baselines for Kotlin warnings
+* ![Maven Central Version](https://img.shields.io/maven-central/v/com.joetr.kotlin.warning.baseline.generator/com.joetr.kotlin.warning.baseline.generator.gradle.plugin)
+  
 [Sync Sphere](https://github.com/j-roskopf/SyncSphere)
 * Compose multiplatform project targeting iOS, Android, and Desktop for planning get togethers with friends
 * [![App Store](https://img.shields.io/itunes/v/6471382890)](https://apps.apple.com/us/app/sync-sphere/id6471382890)
