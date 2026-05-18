@@ -11,7 +11,7 @@ I’m an Android developer who is passionate about the human side of software de
 ## Projects I'm Working On
 
 [Phoebe](https://github.com/j-roskopf/Phoebe) 
-* Android / iOS / Mac / Windows / Debian / Arch music player for Plex / Jellyfin / Emby / Navidrome
+* Android / iOS / WasmJs / Mac / Windows / Debian / Arch music player for Plex / Jellyfin / Emby / Navidrome
 
 [Module Maker Plugin](https://github.com/j-roskopf/ModuleMakerPlugin) 
 * Android Studio / IntelliJ plugin for creating modules
