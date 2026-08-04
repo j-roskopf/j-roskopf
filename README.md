@@ -12,9 +12,18 @@ I’m an Android developer who is passionate about the human side of software de
 
 [Phoebe](https://github.com/j-roskopf/Phoebe) 
 * Android / iOS / WasmJs / Mac / Windows / Debian / Arch music player for Plex / Jellyfin / Emby / Navidrome
+* [https://music.joetr.com](https://music.joetr.com)
 
 [Andy](https://github.com/j-roskopf/Andy) 
 * Desktop companion for Android development.
+
+[Lexikon](https://github.com/j-roskopf/Lexikon) 
+* Desktop / Web Wordle clone without the ads
+* [https://lexikon.joetr.com](https://lexikon.joetr.com)
+
+[Basil](https://github.com/j-roskopf/Basil) 
+* Desktop / Web / Mobile recipe app without the hassle
+* [https://basil.joetr.com](https://basil.joetr.com)
 
 [Module Maker Plugin](https://github.com/j-roskopf/ModuleMakerPlugin) 
 * Android Studio / IntelliJ plugin for creating modules
